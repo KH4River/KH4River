@@ -2,7 +2,7 @@
 
 ## 📖 About me
 - I'm a Cross-Platform Application Development student at [Ies Estatut](https://agora.xtec.cat/ies-estatut/)
-- I'm 21 years old
+- I'm 22 years old
 
 ## 🔭 I’m currently working on
 - [D&D Character Creator](https://github.com/KH4River/DnDCharacterCreator)
