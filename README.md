@@ -5,7 +5,7 @@
 - I'm 22 years old
 
 ## 🔭 I’m currently working on
-- [D&D Character Creator](https://github.com/KH4River/DnDCharacterCreator)
+- [Ember-Codex](https://github.com/KH4River/DnDCharacterCreator) a tool to make D&D characters offline and with your own rules
 
 ## 🛠️ Skills & Currently Studying
 ### **Languages**  
